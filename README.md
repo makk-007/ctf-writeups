@@ -26,7 +26,7 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 
 ## Write-up Index
 
-### OverTheWire — Bandit
+### OverTheWire - Bandit
 
 | Level       | Tags                                                               | Difficulty | Write-up                                 |
 | ----------- | ------------------------------------------------------------------ | ---------- | ---------------------------------------- |
