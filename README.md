@@ -28,14 +28,21 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 
 ### OverTheWire - Bandit
 
-| Level       | Tags                                                               | Difficulty | Write-up                                 |
-| ----------- | ------------------------------------------------------------------ | ---------- | ---------------------------------------- |
-| Level 0 → 1 | `ssh` `remote-access` `linux-basics` `port-specification`          | Easy       | [Link](./overthewire/bandit/level-00.md) |
-| Level 1 → 2 | `special-characters` `file-naming` `linux-basics` `cat`            | Easy       | [Link](./overthewire/bandit/level-01.md) |
-| Level 2 → 3 | `spaces-in-filenames` `quoting` `escaping` `linux-basics`          | Medium     | [Link](./overthewire/bandit/level-02.md) |
-| Level 3 → 4 | `hidden-files` `find` `linux-basics` `directory-navigation`        | Easy       | [Link](./overthewire/bandit/level-03.md) |
-| Level 4 → 5 | `file-types` `human-readable` `find` `scripting-efficiency`        | Medium     | [Link](./overthewire/bandit/level-04.md) |
-| Level 5 → 6 | `find` `file-attributes` `size-filtering` `permissions` `pipeline` | Medium     | [Link](./overthewire/bandit/level-05.md) |
+| Level         | Tags                                                                      | Difficulty | Write-up                                 |
+| ------------- | ------------------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| Level 0 → 1   | `ssh` `remote-access` `linux-basics` `port-specification`                 | Easy       | [Link](./overthewire/bandit/level-00.md) |
+| Level 1 → 2   | `special-characters` `file-naming` `linux-basics` `cat`                   | Easy       | [Link](./overthewire/bandit/level-01.md) |
+| Level 2 → 3   | `spaces-in-filenames` `quoting` `escaping` `linux-basics`                 | Medium     | [Link](./overthewire/bandit/level-02.md) |
+| Level 3 → 4   | `hidden-files` `find` `linux-basics` `directory-navigation`               | Easy       | [Link](./overthewire/bandit/level-03.md) |
+| Level 4 → 5   | `file-types` `human-readable` `find` `scripting-efficiency`               | Medium     | [Link](./overthewire/bandit/level-04.md) |
+| Level 5 → 6   | `find` `file-attributes` `size-filtering` `permissions` `pipeline`        | Medium     | [Link](./overthewire/bandit/level-05.md) |
+| Level 6 → 7   | `find` `file-ownership` `stderr-redirection` `linux-permissions`          | Medium     | [Link](./overthewire/bandit/level-06.md) |
+| Level 7 → 8   | `grep` `text-search` `large-files` `wc` `pipeline`                        | Easy       | [Link](./overthewire/bandit/level-07.md) |
+| Level 8 → 9   | `sort` `uniq` `text-processing` `pipelines` `deduplication`               | Medium     | [Link](./overthewire/bandit/level-08.md) |
+| Level 9 → 10  | `strings` `grep` `binary-files` `text-extraction` `pipeline`              | Medium     | [Link](./overthewire/bandit/level-09.md) |
+| Level 10 → 11 | `base64` `encoding` `decoding` `linux-basics`                             | Easy       | [Link](./overthewire/bandit/level-10.md) |
+| Level 11 → 12 | `rot13` `caesar-cipher` `tr` `text-substitution` `classical-cryptography` | Medium     | [Link](./overthewire/bandit/level-11.md) |
+| Level 12 → 13 | `hexdump` `compression` `gzip` `bzip2` `tar` `file-forensics` `xxd`       | Hard       | [Link](./overthewire/bandit/level-12.md) |
 
 ### PicoCTF
 
