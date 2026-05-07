@@ -43,6 +43,10 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 10 → 11 | `base64` `encoding` `decoding` `linux-basics`                             | Easy       | [Link](./overthewire/bandit/level-10.md) |
 | Level 11 → 12 | `rot13` `caesar-cipher` `tr` `text-substitution` `classical-cryptography` | Medium     | [Link](./overthewire/bandit/level-11.md) |
 | Level 12 → 13 | `hexdump` `compression` `gzip` `bzip2` `tar` `file-forensics` `xxd`       | Hard       | [Link](./overthewire/bandit/level-12.md) |
+| Level 13 → 14 | `ssh` `ssh-keys` `scp` `file-permissions` `authentication`                | Medium     | [Link](./overthewire/bandit/level-13.md) |
+| Level 14 → 15 | `netcat` `tcp` `networking` `ports` `raw-connections`                     | Easy       | [Link](./overthewire/bandit/level-14.md) |
+| Level 15 → 16 | `openssl` `tls` `ssl` `encrypted-connections` `s_client`                  | Medium     | [Link](./overthewire/bandit/level-15.md) |
+| Level 16 → 17 | `nmap` `port-scanning` `ssl` `openssl` `service-enumeration` `ssh-keys`   | Hard       | [Link](./overthewire/bandit/level-16.md) |
 
 ### PicoCTF
 
@@ -64,5 +68,5 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 
 ## Connect
 
-- LinkedIn: [Mawusenam Ackuaku](https://www.linkedin.com/in/mawusenam-ackuaku)
+- LinkedIn: [Kelvin Kwofie Mawusenam Ackuaku](https://www.linkedin.com/in/mawusenam-ackuaku)
 - TryHackMe: [makk007.gg](https://tryhackme.com/p/makk007.gg)
