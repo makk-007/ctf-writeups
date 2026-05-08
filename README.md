@@ -47,6 +47,9 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 14 → 15 | `netcat` `tcp` `networking` `ports` `raw-connections`                     | Easy       | [Link](./overthewire/bandit/level-14.md) |
 | Level 15 → 16 | `openssl` `tls` `ssl` `encrypted-connections` `s_client`                  | Medium     | [Link](./overthewire/bandit/level-15.md) |
 | Level 16 → 17 | `nmap` `port-scanning` `ssl` `openssl` `service-enumeration` `ssh-keys`   | Hard       | [Link](./overthewire/bandit/level-16.md) |
+| Level 17 → 18 | `diff` `file-comparison` `text-processing` `unified-diff`                 | Easy       | [Link](./overthewire/bandit/level-17.md) |
+| Level 18 → 19 | `ssh` `bashrc` `command-execution` `shell-bypass` `persistence`           | Medium     | [Link](./overthewire/bandit/level-18.md) |
+| Level 19 → 20 | `setuid` `linux-permissions` `privilege-escalation` `binary-exploitation` | Medium     | [Link](./overthewire/bandit/level-19.md) |
 
 ### PicoCTF
 
