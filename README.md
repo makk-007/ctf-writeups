@@ -54,6 +54,9 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 21 → 22 | `cron` `crontab` `scheduled-tasks` `bash-scripting` `linux-internals`              | Medium     | [Link](./overthewire/bandit/level-21.md) |
 | Level 22 → 23 | `cron` `bash-scripting` `md5sum` `hashing` `script-analysis`                       | Medium     | [Link](./overthewire/bandit/level-22.md) |
 | Level 23 → 24 | `cron` `bash-scripting` `script-writing` `file-permissions` `privilege-escalation` | Hard       | [Link](./overthewire/bandit/level-23.md) |
+| Level 24 → 25 | `brute-force` `bash-scripting` `netcat` `loops` `wordlist-generation`              | Hard       | [Link](./overthewire/bandit/level-24.md) |
+| Level 25 → 26 | `ssh` `restricted-shell` `more` `pager` `passwd` `shell-escape`                    | Hard       | [Link](./overthewire/bandit/level-25.md) |
+| Level 26 → 27 | `vim` `shell-escape` `restricted-shell` `privilege-escalation` `setuid`            | Hard       | [Link](./overthewire/bandit/level-26.md) |
 
 ### PicoCTF
 
