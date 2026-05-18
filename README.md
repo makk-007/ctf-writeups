@@ -57,6 +57,10 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 24 → 25 | `brute-force` `bash-scripting` `netcat` `loops` `wordlist-generation`              | Hard       | [Link](./overthewire/bandit/level-24.md) |
 | Level 25 → 26 | `ssh` `restricted-shell` `more` `pager` `passwd` `shell-escape`                    | Hard       | [Link](./overthewire/bandit/level-25.md) |
 | Level 26 → 27 | `vim` `shell-escape` `restricted-shell` `privilege-escalation` `setuid`            | Hard       | [Link](./overthewire/bandit/level-26.md) |
+| Level 27 → 28 | `git` `git-clone` `version-control` `ssh-protocol` `linux-basics`                  | Easy       | [Link](./overthewire/bandit/level-27.md) |
+| Level 28 → 29 | `git` `git-log` `git-show` `commit-history` `sensitive-data-exposure`              | Medium     | [Link](./overthewire/bandit/level-28.md) |
+| Level 29 → 30 | `git` `git-branch` `git-checkout` `version-control` `reconnaissance`               | Medium     | [Link](./overthewire/bandit/level-29.md) |
+| Level 30 → 31 | `git` `git-tag` `git-show` `version-control` `reconnaissance`                      | Medium     | [Link](./overthewire/bandit/level-30.md) |
 
 ### PicoCTF
 
