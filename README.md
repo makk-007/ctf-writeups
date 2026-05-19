@@ -61,6 +61,8 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 28 → 29 | `git` `git-log` `git-show` `commit-history` `sensitive-data-exposure`              | Medium     | [Link](./overthewire/bandit/level-28.md) |
 | Level 29 → 30 | `git` `git-branch` `git-checkout` `version-control` `reconnaissance`               | Medium     | [Link](./overthewire/bandit/level-29.md) |
 | Level 30 → 31 | `git` `git-tag` `git-show` `version-control` `reconnaissance`                      | Medium     | [Link](./overthewire/bandit/level-30.md) |
+| Level 31 → 32 | `git` `git-push` `gitignore` `git-add` `version-control`                           | Medium     | [Link](./overthewire/bandit/level-31.md) |
+| Level 32 → 33 | `restricted-shell` `shell-escape` `uppercase-shell` `shell-variables` `sh`         | Hard       | [Link](./overthewire/bandit/level-32.md) |
 
 ### PicoCTF
 
