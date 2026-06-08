@@ -1,6 +1,6 @@
 # CTF Write-ups
 
-Personal collection of Capture The Flag (CTF) solutions and wargame write-ups from OverTheWire, PicoCTF, TryHackMe, and HackTheBox.
+Personal collection of Capture The Flag (CTF) solutions and wargame write-ups from OverTheWire, CyLab Security Academy (formerly PicoCTF), TryHackMe, and HackTheBox.
 
 ## About
 
@@ -10,8 +10,8 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 
 | Platform    | Progress                                                                     | Focus Areas                         |
 | ----------- | ---------------------------------------------------------------------------- | ----------------------------------- |
-| OverTheWire | ![OverTheWire](https://img.shields.io/badge/OverTheWire-In_Progress-blue)    | Linux, SSH, File Systems, Scripting |
-| PicoCTF     | ![PicoCTF](https://img.shields.io/badge/PicoCTF-In_Progress-green)           | General Skills, Forensics, Web      |
+| OverTheWire       | ![OverTheWire](https://img.shields.io/badge/OverTheWire-Complete-brightgreen)         | Linux, SSH, File Systems, Scripting |
+| CyLab Security Academy (PicoCTF) | ![CyLab](https://img.shields.io/badge/CyLab_Security_Academy-In_Progress-green) | General Skills, Forensics, Web      |
 | TryHackMe   | ![TryHackMe](https://img.shields.io/badge/TryHackMe-In_Progress-red)         | SOC, Networking, Blue Team          |
 | HackTheBox  | ![HackTheBox](https://img.shields.io/badge/HackTheBox-In_Progress-darkgreen) | Penetration Testing                 |
 
@@ -64,11 +64,15 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Level 31 → 32 | `git` `git-push` `gitignore` `git-add` `version-control`                           | Medium     | [Link](./overthewire/bandit/level-31.md) |
 | Level 32 → 33 | `restricted-shell` `shell-escape` `uppercase-shell` `shell-variables` `sh`         | Hard       | [Link](./overthewire/bandit/level-32.md) |
 
-### PicoCTF
+### CyLab Security Academy (formerly PicoCTF)
 
-| Challenge       | Category | Difficulty | Write-up |
-| --------------- | -------- | ---------- | -------- |
-| _(coming soon)_ | -        | -          | -        |
+#### Beginner's Guide to the Challenge Library
+
+| Challenge           | Category         | Difficulty | Write-up                                                        |
+| ------------------- | ---------------- | ---------- | --------------------------------------------------------------- |
+| Insp3ct0r            | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/insp3ct0r.md) |
+| Where Are the Robots | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/where-are-the-robots.md) |
+| Python Wrangling     | General Skills   | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/python-wrangling.md) |
 
 ### TryHackMe
 
