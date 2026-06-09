@@ -73,6 +73,11 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Insp3ct0r            | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/insp3ct0r.md) |
 | Where Are the Robots | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/where-are-the-robots.md) |
 | Python Wrangling     | General Skills   | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/python-wrangling.md) |
+| PW Crack 1 | General Skills | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-1.md) |
+| PW Crack 2 | General Skills | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-2.md) |
+| PW Crack 3 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-3.md) |
+| PW Crack 4 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-4.md) |
+| PW Crack 5 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-5.md) |
 
 ### TryHackMe
 
