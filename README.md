@@ -1,6 +1,6 @@
 # CTF Write-ups
 
-Personal collection of Capture The Flag (CTF) solutions and wargame write-ups from OverTheWire, CyLab Security Academy (formerly PicoCTF), TryHackMe, and HackTheBox.
+Personal collection of Capture The Flag (CTF) solutions and wargame write-ups from OverTheWire, CyLab Security Academy (formerly PicoCTF), and HackTheBox.
 
 ## About
 
@@ -12,8 +12,6 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | ----------- | ---------------------------------------------------------------------------- | ----------------------------------- |
 | OverTheWire       | ![OverTheWire](https://img.shields.io/badge/OverTheWire-Complete-brightgreen)         | Linux, SSH, File Systems, Scripting |
 | CyLab Security Academy (PicoCTF) | ![CyLab](https://img.shields.io/badge/CyLab_Security_Academy-In_Progress-green) | General Skills, Forensics, Web      |
-| TryHackMe   | ![TryHackMe](https://img.shields.io/badge/TryHackMe-In_Progress-red)         | SOC, Networking, Blue Team          |
-| HackTheBox  | ![HackTheBox](https://img.shields.io/badge/HackTheBox-In_Progress-darkgreen) | Penetration Testing                 |
 
 ## Skills Demonstrated
 
@@ -78,12 +76,6 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | PW Crack 3 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-3.md) |
 | PW Crack 4 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-4.md) |
 | PW Crack 5 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-5.md) |
-
-### TryHackMe
-
-| Room            | Category | Difficulty | Write-up |
-| --------------- | -------- | ---------- | -------- |
-| _(coming soon)_ | -        | -          | -        |
 
 ### HackTheBox
 
