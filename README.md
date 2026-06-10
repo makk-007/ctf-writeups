@@ -11,7 +11,7 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Platform    | Progress                                                                     | Focus Areas                         |
 | ----------- | ---------------------------------------------------------------------------- | ----------------------------------- |
 | OverTheWire       | ![OverTheWire](https://img.shields.io/badge/OverTheWire-Complete-brightgreen)         | Linux, SSH, File Systems, Scripting |
-| CyLab Security Academy (PicoCTF) | ![CyLab](https://img.shields.io/badge/CyLab_Security_Academy-In_Progress-green) | General Skills, Forensics, Web      |
+| CyLab Security Academy (PicoCTF) | ![CyLab](https://img.shields.io/badge/CyLab_Security_Academy-In_Progress-green) | General Skills, Forensics, Web, Reverse Engineering, Binary Exploitation      |
 
 ## Skills Demonstrated
 
@@ -76,6 +76,11 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | PW Crack 3 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-3.md) |
 | PW Crack 4 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-4.md) |
 | PW Crack 5 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-5.md) |
+| Enhance!            | Forensics            | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/enhance.md) |
+| Big Zip             | General Skills       | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/big-zip.md) |
+| Vault Door Training | Reverse Engineering  | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/vault-door-training.md) |
+| keygenme-py         | Reverse Engineering  | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/keygenme-py.md) |
+| Buffer Overflow 0   | Binary Exploitation  | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/buffer-overflow-0.md) |
 
 ### HackTheBox
 
