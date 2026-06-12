@@ -70,17 +70,23 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | ------------------- | ---------------- | ---------- | --------------------------------------------------------------- |
 | Insp3ct0r            | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/insp3ct0r.md) |
 | Where Are the Robots | Web Exploitation | Easy | [Link](./picoctf(cylabsecurity)/beginners-guide/section-3/where-are-the-robots.md) |
-| Python Wrangling     | General Skills   | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/python-wrangling.md) |
-| PW Crack 1 | General Skills | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-1.md) |
-| PW Crack 2 | General Skills | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-2.md) |
-| PW Crack 3 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-3.md) |
-| PW Crack 4 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-4.md) |
-| PW Crack 5 | General Skills | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-4/pw-crack-5.md) |
 | Enhance!            | Forensics            | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/enhance.md) |
-| Big Zip             | General Skills       | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/big-zip.md) |
 | Vault Door Training | Reverse Engineering  | Easy   | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/vault-door-training.md) |
 | keygenme-py         | Reverse Engineering  | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/keygenme-py.md) |
 | Buffer Overflow 0   | Binary Exploitation  | Medium | [Link](./picoctf(cylabsecurity)/beginners-guide/section-5/buffer-overflow-0.md) |
+
+#### General Skills
+
+| Challenge                    | Difficulty | Write-up |
+| ----------------------------- | ---------- | -------- |
+| Python Wrangling               | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/python-wrangling.md) |
+| PW Crack 1                     | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/pw-crack-1.md) |
+| PW Crack 2                     | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/pw-crack-2.md) |
+| PW Crack 3                     | Medium     | [Link](./picoctf(cylabsecurity)/general-skills/pw-crack-3.md) |
+| PW Crack 4                     | Medium     | [Link](./picoctf(cylabsecurity)/general-skills/pw-crack-4.md) |
+| PW Crack 5                     | Medium     | [Link](./picoctf(cylabsecurity)/general-skills/pw-crack-5.md) |
+| Big Zip                         | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/big-zip.md) |
+| Static ain't always noise       | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/static-aint-always-noise.md) |
 
 ### HackTheBox
 
@@ -91,4 +97,3 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 ## Connect
 
 - LinkedIn: [Kelvin Kwofie Mawusenam Ackuaku](https://www.linkedin.com/in/mawusenam-ackuaku)
-- TryHackMe: [makk007.gg](https://tryhackme.com/p/makk007.gg)
