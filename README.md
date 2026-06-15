@@ -88,6 +88,18 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Big Zip                         | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/big-zip.md) |
 | Static ain't always noise       | Easy       | [Link](./picoctf(cylabsecurity)/general-skills/static-aint-always-noise.md) |
 
+#### Forensics
+
+| Challenge | Difficulty | Write-up |
+| --------- | ---------- | -------- |
+| Information | Easy | [Link](./picoctf(cylabsecurity)/forensics/information.md) |
+| Glory of the Garden | Easy | [Link](./picoctf(cylabsecurity)/forensics/glory-of-the-garden.md) |
+| Enhance! | Medium | [Link](./picoctf(cylabsecurity)/forensics/enhance.md) |
+| Sleuthkit Intro | Medium | [Link](./picoctf(cylabsecurity)/forensics/sleuthkit-intro.md) |
+| Disk, Disk, Sleuth! | Medium | [Link](./picoctf(cylabsecurity)/forensics/disk-disk-sleuth.md) |
+| Disk, Disk, Sleuth! II | Medium | [Link](./picoctf(cylabsecurity)/forensics/disk-disk-sleuth-ii.md) |
+| Sleuthkit Apprentice | Medium | [Link](./picoctf(cylabsecurity)/forensics/sleuthkit-apprentice.md) |
+
 ### HackTheBox
 
 | Box             | OS  | Difficulty | Write-up |
