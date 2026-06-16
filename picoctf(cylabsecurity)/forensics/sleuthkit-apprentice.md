@@ -3,7 +3,7 @@
 **Platform:** CyLab Security Academy (formerly PicoCTF)
 **Category:** Forensics
 **Difficulty:** Medium
-**Learning Path:** Forensics (Dedicated Path) — Problem Set 2d
+**Learning Path:** Forensics (Dedicated Path) - Problem Set 2d
 
 ---
 

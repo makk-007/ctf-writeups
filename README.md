@@ -99,6 +99,12 @@ I'm a CCNA-certified Cybersecurity trainee with a First Class degree in Computer
 | Disk, Disk, Sleuth! | Medium | [Link](./picoctf(cylabsecurity)/forensics/disk-disk-sleuth.md) |
 | Disk, Disk, Sleuth! II | Medium | [Link](./picoctf(cylabsecurity)/forensics/disk-disk-sleuth-ii.md) |
 | Sleuthkit Apprentice | Medium | [Link](./picoctf(cylabsecurity)/forensics/sleuthkit-apprentice.md) |
+| Extensions | Medium | [Link](./picoctf(cylabsecurity)/forensics/extensions.md) |
+| St3g0 | Medium | [Link](./picoctf(cylabsecurity)/forensics/st3g0.md) |
+| What Lies Within | Medium | [Link](./picoctf(cylabsecurity)/forensics/what-lies-within.md) |
+| Packets Primer | Medium | [Link](./picoctf(cylabsecurity)/forensics/packets-primer.md) |
+| Wireshark doo dooo do doo... | Medium | [Link](./picoctf(cylabsecurity)/forensics/wireshark-doo-dooo-do-doo.md) |
+| Trivial Flag Transfer Protocol | Medium | [Link](./picoctf(cylabsecurity)/forensics/trivial-flag-transfer-protocol.md) |
 
 ### HackTheBox
 
